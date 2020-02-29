@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+body{
+		background-image: url("");
+	}
+#header{
+	display:flex;
+	flex basis:50;
+	border style:solid;
+	background-color:green;
+}
+#reg{
+	padding-left:70%;
+}
+
